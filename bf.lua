@@ -1828,8 +1828,8 @@
         AttackDistance = 65,
         AttackMobs = true,
         AttackPlayers = true,
-        AttackCooldown = 0.03,
-        ComboResetTime = 0.03,
+        AttackCooldown = 0.05,
+        ComboResetTime = 0.05,
         MaxCombo = 2,
         HitboxLimbs = {"RightLowerArm", "RightUpperArm", "LeftLowerArm", "LeftUpperArm", "RightHand", "LeftHand"},
         AutoClickEnabled = true
